@@ -17,7 +17,7 @@ class TgClient:
 
     BNAME = ""
     ID = 0
-    IS_PREMIUM_USER = true
+    IS_PREMIUM_USER = True
     MAX_SPLIT_SIZE = 4194304000
 
     @classmethod

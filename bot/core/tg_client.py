@@ -17,8 +17,8 @@ class TgClient:
 
     BNAME = ""
     ID = 0
-    IS_PREMIUM_USER = False
-    MAX_SPLIT_SIZE = 2097152000
+    IS_PREMIUM_USER = TRUE
+    MAX_SPLIT_SIZE = 4240728637
 
     @classmethod
     def wztgClient(cls, *args, **kwargs):
